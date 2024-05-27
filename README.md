@@ -1,8 +1,4 @@
-# pytorch_practice
+### 2023-2024 共學計劃 : 深度學習
 
-readme modification test<br>
-> Is Your Main under ***Protection***?
-<br>
-> Is Your Main under ***Protection***? (2nd test)
-
-# yeeeeeeeh
+主題 : 了解深度學習中重要模型的理論和實作方式，以台灣大學李宏毅老師2021年開設，
+                「機器學習」課程作業為主，任務包含語音辨識、圖片分類、翻譯、圖片生成、強化學習等
