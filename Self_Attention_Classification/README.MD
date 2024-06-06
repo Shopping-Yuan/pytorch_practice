@@ -11,10 +11,15 @@
 ###### 建立多頭、多層的 self attention 模型，進行分類任務。
 
 ### 我的工作 : 
-###### 
+###### 改善模型架構: 使用attention pooling 
+###### conformer
 ###### 
 
 ### 備註 :
+###### attention pooling 參考資料 : 
+###### An Attention Pooling based Representation Learning Method for Speech Emotion Recognition
+###### (Pengcheng Li1, Yan Song1, Ian McLoughlin2, Wu Guo1 and Lirong Dai, 2018)
+###### link : https://www.isca-archive.org/interspeech_2018/li18c_interspeech.pdf
 ###### 未來加強學習的方向，是語音處理的相關特徵工程。
 ### 助教原檔:
 ###### origin_version.ipynb
