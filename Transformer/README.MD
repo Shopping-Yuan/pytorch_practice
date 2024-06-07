@@ -1,19 +1,29 @@
 ### 目的 :
-###### 
+###### 訓練模型進行英翻中任務
 
 ### 資料集 : 
 ###### 
 
 ### 分析方法 : 
-###### 使用CNN建立模型，進行分類任務。
+###### 使用Transformer，進行分類任務。
 
 ### 我的工作 : 
-###### 改寫程式碼並重新設定訓練策略，以及實作半監督學習(semi-supervised-learning)，
-###### 在目前的訓練集出現過擬合的情形時(代表模型有一定預測能力)，
-###### 將未標註資料輸入模型，將分類結果高於80%可能性的資料加入訓練集，重新進行訓練。
+###### 
+###### 
+###### 
 
 ### 備註 :
-###### 進行半監督學習，加入新的資料點後，雖然驗證集的準確度有微小的提升，
-###### 但總體趨勢(訓練、驗證集的loss和準確度)，沒有明顯變化。
+###### 
+###### 
+
 ### 資料集來源:
-###### TED-Multilingual-Parallel-Corpus/
+###### TED-Multilingual-Parallel-Corpus (by ajinkyakulkarni14)
+###### link : https://github.com/ajinkyakulkarni14/TED-Multilingual-Parallel-Corpus
+
+### 參考資料
+###### 1.助教原檔 : origin_version.ipynb (內附資料集連結)
+###### 2.ChineseNMT (by hemingkx)
+######   link : https://github.com/hemingkx/ChineseNMT/blob/master/README.md
+###### 3.The Annotated Transformer (by harvardnlp)
+######   link : https://nlp.seas.harvard.edu/2018/04/03/attention.html
+
