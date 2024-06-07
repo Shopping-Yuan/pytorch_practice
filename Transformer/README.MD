@@ -8,9 +8,12 @@
 ###### 使用Transformer，進行分類任務。
 
 ### 我的工作 : 
-###### 
-###### 
-###### 
+###### 1.建置transformer模型:
+###### 未使用pytorch中self-attention層以及包含此結構的內建模型，
+###### 而是改寫scaled_dot_product_attention函數(無法處理padding mask)，
+###### 結合輸入中對短句結尾的padding mask和decoder中的attention mask，
+###### 完整實作transformer模型。
+###### 2.實作beam search方法，期望增加輸出的品質。
 
 ### 備註 :
 ###### 
