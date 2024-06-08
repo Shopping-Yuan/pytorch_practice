@@ -26,4 +26,5 @@
 ###### 3. SNGAN (by niffler92)
 ######    link : https://github.com/niffler92/SNGAN
 
-### 助教原檔 : origin_version.ipynb (內附資料集連結)
+### 助教原檔 : 
+###### origin_version.ipynb (內附資料集連結)
