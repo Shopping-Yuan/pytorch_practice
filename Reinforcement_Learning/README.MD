@@ -1,6 +1,8 @@
-### 環境與目的
+### 專案介紹
 ###### OpenAI公司提供的Gym庫，有不同的虛擬環境供使用者進行強化學習的練習
-###### LunarLander是其中的一個環境
+###### LunarLander是其中的一個環境，使用者藉由reinforcement learning 的技術，
+###### 讓訓練出的agent可以正確地駕駛登陸艇降落在星球表面。
+
 ![image](https://github.com/Shopping-Yuan/ML_Project/blob/Shopping_vscode_branch/Reinforcement_Learning/LunarLander.png)
 
 ### 方法 : 
