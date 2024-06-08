@@ -1,7 +1,7 @@
 ### 環境與目的
 ###### OpenAI公司提供的Gym庫，有不同的虛擬環境供使用者進行強化學習的練習
 ###### LunarLander是其中的一個環境
-![image]
+![image](https://github.com/Shopping-Yuan/ML_Project/blob/Shopping_vscode_branch/Reinforcement_Learning/LunarLander.png)
 
 ### 方法 : 
 ###### 
