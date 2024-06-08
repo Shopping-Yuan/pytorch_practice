@@ -19,9 +19,17 @@
 ######   如此一來越早的決定對結果影響越大，也符合真實的情況。
 
 ###### 2.實作deep Q learning
+######   deep Q learning(DQN)是由Q learning結合神經網路結構而成，
+######   Q-learning需要一個起始的，包含(狀態-動作-價值)的Q表，
+######   並透過蒐集(狀態-動作-獎勵-下一狀態)的資訊獲得/更新每個狀態中，
+######   不同動作的價值(假設學習策略可由馬爾可夫過程找出)，更新Q表。
+######   DQN中，Q表為神經網路所取代，透過蒐集足夠(狀態-動作-獎勵-下一狀態)的資訊，
+######   
 
 ### 參考資料
 ###### 
+###### 1.An Introduction to Q-Learning: A Tutorial For Beginners (datacamp)
+###### https://www.datacamp.com/tutorial/introduction-q-learning-beginner-tutorial
 
 ### 助教原檔 : 
 ###### origin_version.ipynb
