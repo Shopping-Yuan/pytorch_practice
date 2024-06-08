@@ -42,8 +42,10 @@
 ### 參考資料
 ###### 1.李宏毅老師RL課程 :
 ###### 參考連結 : https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php (RL部分)
-###### 2.An Introduction to Q-Learning: A Tutorial For Beginners (datacamp)
+###### 2.An Introduction to Q-Learning: A Tutorial For Beginners (from datacamp)
 ###### https://www.datacamp.com/tutorial/introduction-q-learning-beginner-tutorial
+###### 3.Reinforcement Learning (DQN) Tutorial (from Pytorch Tutorial)
+###### link : https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html
 
 ### 助教原檔 : 
 ###### origin_version.ipynb
