@@ -11,4 +11,6 @@
 ### 備註 : 
 ###### Public Score 是 0.14700，接近平均水準。
 ###### 目的是熟悉資料處理的流程，故暫無更進一步的優化。
+###### 評估參考 : House Prices: What’s a good score?
+###### link : https://www.kaggle.com/code/fedesoriano/house-prices-what-s-a-good-score
 
